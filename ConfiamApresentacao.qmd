@@ -1,0 +1,386 @@
+---
+title: "Bioinformática"
+subtitle: "Perspectivas para Físicos Médicos"
+author: "Marcel Ferreira"
+title-slide-attributes:
+  data-background-image: img/watermark.png
+  data-background-size: contain
+  data-background-opacity: ".4"
+filters:
+  - highlight-text
+format:
+  live-revealjs:
+    theme: serif
+    transition: fade
+    transition-speed: slow
+    width: 1500
+    page-layout: full
+    reference-location: document
+    chalkboard: true
+    logo: img/logo.png
+    css: slides.css
+editor: visual
+lang: pt-BR
+date: today
+slide-number: c/t
+---
+
+## Sobre a apresentação
+
+1.  Sobre mim;
+
+2.  Bioinformática;
+
+3.  Dados Biológicos
+
+4.  Perspectivas para físicos na área (e fora);
+
+5.  Trabalhos;
+
+# Sobre mim {background-image="img/watermark.png" background-size="contain" background-opacity=".4"}
+
+## CONFIAM 2011
+
+![CONFIAM 2011](img/Imagem8.png)
+
+## CONFIAM 2011
+
+![Caneca CONFIAM 2011](img/Imagem5.png)
+
+## CONFIAM - Canecas
+
+![Canecas CONFIAM 2012](img/canecas2012.png)
+
+## CONFIAM 2012
+
+![Caneca CONFIAM 2012](img/Imagem9.png)
+
+## CONFIAM 2014
+
+![CONFIAM 2014](img/Imagem10.png)
+
+## Sobre mim
+
+-   [Física médica]{colour="#FFFFFF" bg-colour="#00688B"} - IBB/UNESP (2011 - 2014);
+
+<br>
+
+-   Mestrado em [Biotecnologia]{colour="#FFFFFF" bg-colour="#00688B"} - IBB/UNESP (2015 - 2017);
+
+<br>
+
+-   Doutorado em [Biotecnologia]{colour="#FFFFFF" bg-colour="#00688B"} - IBB/UNESP (2017 - 2022);
+
+<br>
+
+-   Pós-doutorado em [Genética]{colour="#FFFFFF" bg-colour="#b22222"} - FMB/UNESP (2023 - );
+
+## Sobre mim - Interesses
+
+-   Métodos alternativos ao uso de animais;
+
+-   Identificão humana via DNA;
+
+-   Biologia do tecido ósseo;
+
+-   Biomateriais;
+
+-   Regeneração tecidual;
+
+-   Ciência aberta;
+
+# Bioinformática {background-image="img/watermark.png" background-size="contain" background-opacity=".4"}
+
+## Dados
+
+![Dados para sabedoria.](img/Data-Wisdom-768x250.jpg)
+
+## Dados
+
+![Dados para conspiração.](img/Data-Wisdom-fun.jpg)
+
+## O que é bioinformática?
+
+-   **NIH**: *"Bioinformatics, as related to genetics and genomics, is a scientific subdiscipline that involves using computer technology to collect, store, analyze and disseminate biological data and information, such as DNA/RNA and amino acid sequences or annotations about those sequences."*
+
+![NIH](img/NIH_2012_logo_arrow-01.svg){width="10%"}
+
+## O que é bioinformática?
+
+-   **NIH**: *"Bioinformatics, as related to [genetics]{colour="#FFFFFF" bg-colour="#b22222"} and [genomics]{colour="#FFFFFF" bg-colour="#b22222"}, is a scientific subdiscipline that involves using computer technology to [collect]{colour="#FFFFFF" bg-colour="#b22222"}, [store]{colour="#FFFFFF" bg-colour="#b22222"}, [analyze]{colour="#FFFFFF" bg-colour="#b22222"} and [disseminate]{colour="#FFFFFF" bg-colour="#b22222"} biological data and information, such as [DNA/RNA]{color="#FFFFFF" bg-color="#0000FF"} and [amino acid]{color="#FFFFFF" bg-color="#0000FF"} sequences or annotations about those sequences."*
+
+![NIH](img/NIH_2012_logo_arrow-01.svg){width="10%"}
+
+## O projeto Genoma
+
+![Genome - https://www.genome.gov/human-genome-project](https://www.genome.gov/sites/default/files/media/images/2022-08/Covers_DYN.jpg){width="100%"}
+
+## O que é bioinformática? {.smaller}
+
+-   O que é um [gene]{colour="#FFFFFF" bg-colour="#b22222"}?
+
+<br>
+
+-   O que é um [genoma]{colour="#FFFFFF" bg-colour="#b22222"}?
+
+<br>
+
+## O que é bioinformática? {.smaller}
+
+-   O que é um [gene]{colour="#FFFFFF" bg-colour="#b22222"}?
+    -   Os genes são formados por [sequências de DNA]{colour="#FFFFFF" bg-colour="#ff6600"} e estão dispostos, um após o outro, em locais específicos dos [cromossomos]{colour="#FFFFFF" bg-colour="#ff6600"} no núcleo das células. Eles contêm informações para a produção de proteínas específicas que levam à expressão de uma característica ou traço físico específico, como a cor do cabelo ou dos olhos, ou a uma função específica em uma [célula]{colour="#FFFFFF" bg-colour="#ff6600"}.
+
+<br>
+
+-   O que é um [genoma]{colour="#FFFFFF" bg-colour="#b22222"}?
+    -   Um genoma é o [conjunto completo]{colour="#FFFFFF" bg-colour="#ff6600"} de informações genéticas em um [organismo]{colour="#FFFFFF" bg-colour="#ff6600"}.
+
+## O que é bioinformática?
+
+[![Nucleotídeos, genes, cromossomos, e mais..](https://nci-media.cancer.gov/pdq/media/images/761781-571.jpg){fig-align="center"}](https://www.cancer.gov/publications/dictionaries/genetics-dictionary/def/gene)
+
+## Dogma central da biologia molecular
+
+[![Dogma central da biologia molecular.](https://www.cancer.gov/ccg/sites/g/files/xnrzdm256/files/styles/cgov_article/public/cgov_image/media_image/2022-06/blog%20An%20Introduction%20to%20Proteogenomics-%20Appreciating%20the%20Complexity%20of%20the%20Central%20Dogma.png?itok=muJvrT_H){fig-align="center"}](https://www.cancer.gov/ccg/sites/g/files/xnrzdm256/files/styles/cgov_article/public/cgov_image/media_image/2022-06/blog%20An%20Introduction%20to%20Proteogenomics-%20Appreciating%20the%20Complexity%20of%20the%20Central%20Dogma.png?itok=muJvrT_H)
+
+## O que é bioinformática? - Era das ômicas
+
+![Multi-Omics - https://comics.dcv.fct.unl.pt/resources/](https://comics.dcv.fct.unl.pt/media/posts/52/responsive/SciTechSociety2020-2xl.jpg)
+
+## O que é bioinformática? - Era das ômicas
+
+[![Animal Testing and its Alternatives -- the Most Important Omics is Economics](img/economics.png){width="639"}](https://www.altex.org/index.php/altex/article/view/1134/1131)
+
+## Bioinfomática - Ciência de dados
+
+[![Extraído de Medium Zahra Elhamraoui](img/datascience.png){fig-align="center" width="750"}](https://medium.com/@zahraelhamraoui1997/data-science-versus-bioinformatics-859a086c8587)
+
+# Dados Biológicos {background-image="img/watermark.png" background-size="contain" background-opacity=".4"}
+
+## Código genético {auto-animate="true"}
+
+::: columns
+::: {.column width="30%"}
+![DNA](img/dna.png)
+:::
+
+::: {.column width="70%"}
+-   Universal;
+
+<br>
+
+-   Genoma humano \~3 Gbases;
+
+<br>
+
+-   Variações esperada de 1 a cada 1.000 bases (0,1%);
+:::
+:::
+
+## Código genético {auto-animate="true"}
+
+::: columns
+::: {.column width="30%"}
+![DNA](img/dna.png)
+:::
+
+::: {.column width="70%"}
+-   Universal;
+
+<br>
+
+-   Genoma humano \~3 Gbases;
+
+<br>
+
+-   Variações esperada de 1 a cada 1.000 bases (0,1%);
+:::
+:::
+
+![](img/iguais99.png){.absolute bottom="0" right="0" width="1500" height="700"}
+
+## Código genético {auto-animate="true"}
+
+-   111 ZBases (Zetta Bases);
+
+## Sequências de DNA
+
+-   Convenção: `A`, `T`, `C`, `G`;
+
+<br>
+
+-   Formato de FASTA de arquivos;
+
+<br>
+
+-   Extensões: `.fasta`, `.fa`, `.fas`;
+
+## Sequências de DNA {.smaller}
+
+`>NC_000006.12:45328330-45551082 RUNX2 [organism=Homo sapiens] [GeneID=860] [chromosome=6]`
+
+`ATTCGCCTCACAAACAACCACAGAACCACAAGTGCGGTGCAAACTTTCTCCAGGAGGACAGCAAGAAGTC`
+
+`TCTGGTTTTTAAATGGTTAATCTCCGCAGGTCACTACCAGCCACCGAGACCAACAGAGTCAGTGAGTGCT`
+
+`CTCTAACCACAGTCTATGCAGTAATAGTAGGTCCTTCAAATATTTGCTCATTCTCTTTTTGTTTTGTTTC`
+
+`TTTGCTTTTCACATGTTACCAGCTACATAATTTCTTGACAGAAAAAAATAAATATAAAGTCTATGTACTC`
+
+`CAGGCATACTGTAAAACTAAAACAAGGTTTGGGTATGGTTTGTATTTTCAGTTTAAGGCTGCAAGCAGTA`
+
+`TTTACAACAGAGGGTACAAGTTCTATCTGAAAAAAAAAGGAGGGACTATGGCATCAAACAGCCTCTTCAG`
+
+`CACAGTGACACCATGTCAGCAAAACTTCTTTTGGGGTAAGTGTTACCATTTTTAAAATCCTGTAAGATAT`
+
+`...`
+
+## Sequência de Proteínas {.smaller}
+
+`>NP_001015051.3 RUNX2 [organism=Homo sapiens] [GeneID=860] [isoform=b]`
+
+`MASNSLFSTVTPCQQNFFWDPSTSRRFSPPSSSLQPGKMSDVSPVVAAQQQQQQQQQQQQQQQQQQQQQQ`
+
+`QEAAAAAAAAAAAAAAAAAVPRLRPPHDNRTMVEIIADHPAELVRTDSPNFLCSVLPSHWRCNKTLPVAF`
+
+`KVVALGEVPDGTVVTVMAGNDENYSAELRNASAVMKNQVARFNDLRFVGRSGRGKSFTLTITVFTNPPQV`
+
+`ATYHRAIKVTVDGPREPRRHRQKLDDSKPSLFSDRLSDLGRIPHPSMRVGVPPQNPRPSLNSAPSPFNPQ`
+
+`GQSQITDPRQAQSSPPWSYDQSYPSYLSQMTSPSIHSTTPLSSTRGTGLPAITDVPRRISGASELGPFSD`
+
+`PRQFPSISSLTESRFSNPRMHYPATFTYTPPVTSGMSLGMSATTHYHTYLPPPYPGSSQSQSGPFQTSST`
+
+`PYLYYGTSSGSYQFPMVPGGDRSPSRMLPPCTTTSNGSTLLNPNLPNQNDGVDADGSHSSSPTVLNSSGR`
+
+`MDESVWRPY`
+
+## Anotações biológicas
+
+[![Anotações relacionadas ao gene RUNX2.](img/annot.png){fig-align="center"}](https://www.ncbi.nlm.nih.gov/gene/860/)
+
+## Anotações biológicas
+
+::: columns
+::: {.column width="50%"}
+![Eu.](img/marshall.jpg){fig-align="left" width="300"}
+:::
+
+::: {.column width="50%"}
+-   Nome: `Marcel Ferreira`;
+
+-   CPF: `123.456.789-0`;
+
+-   Passaporte: `XXXXXXX`;
+
+-   RA: `PAT123456`;
+
+-   Username: `marceelrf`;
+:::
+:::
+
+## Convenção de nomes de genes
+
+[![https://www.genenames.org/](img/HGNC.png){fig-align="center"}](https://www.genenames.org/)
+
+## Convenção de nomes de genes
+
+![[@lewis2021]](img/nature1.png){fig-align="center"}
+
+## Convenção de nomes de genes
+
+::: columns
+::: {.column width="65%"}
+[![HGNC alterou nomes de genes.](img/excel.png){fig-align="left"}](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates)
+:::
+
+::: {.column .smaller width="35%"}
+-   MARCH1 -\> MARCHF1
+
+<br>
+
+-   SEPT1 -\> SEPTIN1
+
+<br>
+
+-   OCT4\* // POU5F1
+:::
+:::
+
+## Bancos de dados
+
+![Consórcios de bases de dados](img/consorcios_db.png){fig-align="center" width="700"}
+
+## Anotações biológicas
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+#| tbl-cap: Exemplos de anotações em diferentes bases
+library(AnnotationDbi)
+library(org.Hs.eg.db)
+
+IDs <- c("860","2064","632","121340")
+
+knitr::kable(select(org.Hs.eg.db,
+       keys = IDs,
+       columns = c("GENENAME","ENTREZID","SYMBOL","ENSEMBL"),
+       keytype = "ENTREZID"))
+```
+
+# Perspectivas para físicos na área (e fora) {background-image="img/watermark.png" background-size="contain" background-opacity=".4"}
+
+## Hospitais
+
+https://ggmkts.com/insights/i-The-hidden-potential-of-Latin-Americas-hospitals
+
+https://www.uol.com.br/vivabem/noticias/redacao/2024/09/21/brasil-tem-23-hospitais-entre-os-melhores-do-mundo-aponta-ranking-global.htm
+
+# Trabalhos {background-image="img/watermark.png" background-size="contain" background-opacity=".4"}
+
+## O problema/desafio {auto-animate="true"}
+
+![](img/diversidade_pessoas.png)
+
+## O problema/desafio {auto-animate="true"}
+
+![](img/diversidade_pessoas.png)
+
+![](img/diversidade.png){.absolute bottom="0" right="0" width="1500" height="500"}
+
+## O problema/desafio {auto-animate="true"}
+
+![](img/diversidade_pessoas.png)
+
+## Epigenética e fenotipagem forense por DNA
+
+[![Usos forense do DNA .](img/forense.png)](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2021.708222/full)
+
+## Epigenética e fenotipagem forense por DNA
+
+![STR - Microsatalites](img/strs.png)
+
+##  {.untitle}
+
+![](https://nuvacolors.com/cdn/shop/articles/Screenshot_2023-11-15_at_05.31.56.png?v=1700001269){fig-align="center" width="1150"}
+
+## Epigenética e fenotipagem forense por DNA
+
+[![Sequenciamento Oxford Nanopore](img/nanopore.jpg){alt="Sequenciamento Oxford Nanopore" fig-align="center"}](https://www.nature.com/articles/s41587-021-01108-x)
+
+## Epigenética e fenotipagem forense por DNA
+
+![Comparação de sequenciamento de leituras curtas e longas.](img/short_long.png){fig-align="center"}
+
+## Epigenética e fenotipagem forense por DNA
+
+-   Em fase de coletas;
+
+-   N = 32 (atualmente 11 coletados);
+
+-   Pele, sangue e saliva;
+
+-   Predição de fenótipos e de idade;
+
+# Constatações {background-image="img/watermark.png" background-size="contain" background-opacity=".4"}

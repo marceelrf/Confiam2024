@@ -1,0 +1,4 @@
+- source: ConfiamApresentacao.qmd
+  quarto-pub:
+    - id: abb5c407-3566-4ab3-b19f-d0bce86f7e31
+      url: 'https://marceelrf.quarto.pub/confiam2024'
