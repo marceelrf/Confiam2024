@@ -201,6 +201,10 @@ slide-number: c/t
 
 ## Código genético {auto-animate="true"}
 
+-   O corpo humano tem \~37 trilhões de células;
+
+<!-- -->
+
 -   111 ZBases (Zetta Bases);
 
 ## Sequências de DNA
@@ -329,13 +333,51 @@ knitr::kable(select(org.Hs.eg.db,
        keytype = "ENTREZID"))
 ```
 
+## Grandezas nos dados biológicos
+
 # Perspectivas para físicos na área (e fora) {background-image="img/watermark.png" background-size="contain" background-opacity=".4"}
 
 ## Hospitais
 
-https://ggmkts.com/insights/i-The-hidden-potential-of-Latin-Americas-hospitals
+[![](img/nicolelis.png){fig-align="center" width="750"}](https://www.youtube.com/watch?app=desktop&v=mr1N6AKfo1Q)
 
-https://www.uol.com.br/vivabem/noticias/redacao/2024/09/21/brasil-tem-23-hospitais-entre-os-melhores-do-mundo-aponta-ranking-global.htm
+## Hospitais
+
+[![Fonte: Global Growth Market](img/hospitais2.png){fig-align="center" width="700"}](https://ggmkts.com/insights/i-The-hidden-potential-of-Latin-Americas-hospitals)
+
+## Hospitais
+
+[![](img/hospitais1.png){fig-align="center"}](https://www.uol.com.br/vivabem/noticias/redacao/2024/09/21/brasil-tem-23-hospitais-entre-os-melhores-do-mundo-aponta-ranking-global.htm)
+
+## Sistema de saúde brasileiro
+
+[![](img/sus_final.png){fig-align="center"}](https://genoma.ib.usp.br/bolsas-para-rede-genomas-sus/248)
+
+## Sistema de saúde brasileiro
+
+[![Fonte: GOV.BR](img/setor_br.jpeg){fig-align="center"}](https://www.gov.br/ans/pt-br/assuntos/noticias/numeros-do-setor/setor-fecha-2023-com-51-milhoes-de-beneficiarios-em-planos-de-assistencia-medica)
+
+[Link1](https://agenciabrasil.ebc.com.br/saude/noticia/2024-04/consumo-de-servicos-de-saude-avanca-103) [Link2](https://www.ey.com/pt_br/health/panorama-brasileiro-do-setor-da-saude)
+
+## O profissional {auto-animate="true"}
+
+## O profissional {auto-animate="true"}
+
+![Precisa programar](img/3oEjHWbXcpeKhTktXi.gif){fig-align="center" width="560"}
+
+## Oportunidades {auto-animate="true"}
+
+## Oportunidades {auto-animate="true"}
+
+![Vagas de python no Brasil](img/python_vagas.png){fig-align="center"}
+
+## Oportunidades {auto-animate="true"}
+
+![Vagas para GraphPad Prism e OriginLab.](img/vagas.png){fig-align="center" width="1200"}
+
+## Oportunidades {auto-animate="true"}
+
+![Física médica - veteranos](img/logo_fisica_medica.jpg){fig-align="center" width="650"}
 
 # Trabalhos {background-image="img/watermark.png" background-size="contain" background-opacity=".4"}
 
@@ -384,3 +426,41 @@ https://www.uol.com.br/vivabem/noticias/redacao/2024/09/21/brasil-tem-23-hospita
 -   Predição de fenótipos e de idade;
 
 # Constatações {background-image="img/watermark.png" background-size="contain" background-opacity=".4"}
+
+## Constatações
+
+-   Área multidisciplinar;
+
+-   Profissional carente no mercado;
+
+-   Setor de saúde é uma mina de ouro no Brasil;
+
+-   Possibilidade de colaborações;
+
+-   Big Data e Machine Learning;
+
+## Para ficar de olho
+
+![Ferramentas](img/tools.png){fig-align="center" width="1200"}
+
+## Convite
+
+![](img/post%20-%20wokshop%20de%20bioinfo%20forense.png){fig-align="center" width="750"}
+
+# Agradecimentos
+
+![](img/thanks.png){fig-align="center" width="1100"}
+
+# Obrigado!
+
+## Contatos
+
+::: columns
+::: column
+[![Github](img/github.marcel.png){fig-align="center" width="500"}](https://github.com/marceelrf)
+:::
+
+::: column
+[![Apresentação](img/press.png){fig-align="center" width="500"}](https://marceelrf.quarto.pub/confiam2024/#/title-slide)
+:::
+:::
