@@ -206,15 +206,14 @@ slide-number: c/t
 
 <br>
 
-- 111 ZBases (Zetta Bases);
+-   111 ZBases (Zetta Bases);
 
 <br>
 
-- Modificações nas bases;
+-   Modificações nas bases;
 :::
 
 ## Código genético - Epigenética {auto-animate="true"}
-
 
 -   O corpo humano tem \~37 trilhões de células;
 
@@ -222,11 +221,11 @@ slide-number: c/t
 
 -   111 ZBases (Zetta Bases);
 
-![](img/methilation2.png){.absolute bottom=50 left=600 width="850" height="390"}
+![](img/methilation2.png){.absolute bottom="50" left="600" width="850" height="390"}
 
 <br>
 
-- Modificações nas bases;
+-   Modificações nas bases;
 
 ## Sequências de DNA
 
@@ -384,6 +383,22 @@ knitr::kable(select(org.Hs.eg.db,
 -   Epigenética \~ 1-10 Mb;
 
 -   Expressão gênica \~ 100 Mb;
+:::
+
+## Grandezas nos dados biológicos
+
+::: columns
+::: column
+[![F1](img/max-verstappen-red-bull-racing.jpg){fig-align="center"}](about:blank)
+:::
+
+::: column
+-   30 Mb por volta;
+
+<br>
+
+-   1 Tb por final de semana;
+:::
 :::
 
 # Perspectivas para físicos na área (e fora) {background-image="img/watermark.png" background-size="contain" background-opacity=".4"}
