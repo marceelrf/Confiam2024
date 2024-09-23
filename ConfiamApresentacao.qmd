@@ -201,11 +201,32 @@ slide-number: c/t
 
 ## Código genético {auto-animate="true"}
 
+::: incremental
 -   O corpo humano tem \~37 trilhões de células;
 
-<!-- -->
+<br>
+
+- 111 ZBases (Zetta Bases);
+
+<br>
+
+- Modificações nas bases;
+:::
+
+## Código genético - Epigenética {auto-animate="true"}
+
+
+-   O corpo humano tem \~37 trilhões de células;
+
+<br>
 
 -   111 ZBases (Zetta Bases);
+
+![](img/methilation2.png){.absolute bottom=50 left=600 width="850" height="390"}
+
+<br>
+
+- Modificações nas bases;
 
 ## Sequências de DNA
 
@@ -335,6 +356,36 @@ knitr::kable(select(org.Hs.eg.db,
 
 ## Grandezas nos dados biológicos
 
+[![Volume de dados no GeneBank do NCBI](img/datasize.png){fig-align="center"}](https://www.ncbi.nlm.nih.gov/genbank/statistics/)
+
+## Grandezas nos dados biológicos {.incremental}
+
+::: incremental
+-   Genoma de referência \~ 3.2 Gb;
+
+-   Proteoma de referência \~ 10-30 Mb;
+
+-   Sequenciamento Illumina \~ 120 Gb;
+
+-   Sequenciamento PacBio \~ 90 Gb;
+
+-   Sequenciamento Nanopore \~ 200 Gb;
+:::
+
+## Grandezas nos dados biológicos {.incremental}
+
+::: incremental
+-   Single Cell \~ 1 Tb;
+
+-   Alinhamento \~ 10-100 Gb;
+
+-   Genotipagem \~ 1 Gb;
+
+-   Epigenética \~ 1-10 Mb;
+
+-   Expressão gênica \~ 100 Mb;
+:::
+
 # Perspectivas para físicos na área (e fora) {background-image="img/watermark.png" background-size="contain" background-opacity=".4"}
 
 ## Hospitais
@@ -378,6 +429,18 @@ knitr::kable(select(org.Hs.eg.db,
 ## Oportunidades {auto-animate="true"}
 
 ![Física médica - veteranos](img/logo_fisica_medica.jpg){fig-align="center" width="650"}
+
+## Oportunidades {auto-animate="true"}
+
+-   Exterior;
+
+<br>
+
+-   Academia;
+
+<br>
+
+-   Empreendedorismo
 
 # Trabalhos {background-image="img/watermark.png" background-size="contain" background-opacity=".4"}
 
