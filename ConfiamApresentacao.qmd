@@ -431,6 +431,10 @@ knitr::kable(select(org.Hs.eg.db,
 
 ![Precisa programar](img/3oEjHWbXcpeKhTktXi.gif){fig-align="center" width="560"}
 
+## O profissional {auto-animate="true"}
+
+![Instagram \@galinhaprogramadora](img/galinhaprogramadora.png){fig-align="center" width="1200"}
+
 ## Oportunidades {auto-animate="true"}
 
 ## Oportunidades {auto-animate="true"}
