@@ -489,13 +489,59 @@ knitr::kable(select(org.Hs.eg.db,
 
 ![](https://nuvacolors.com/cdn/shop/articles/Screenshot_2023-11-15_at_05.31.56.png?v=1700001269){fig-align="center" width="1150"}
 
-## Epigenética e fenotipagem forense por DNA
+## Oxford Nanopore Technologies
+
+::: columns
+::: {.column width="55%"}
+![](img/ont_devices.png)
+:::
+
+::: {.column width="45%"}
+-   Portátil, escalável e "barato";
+
+-   Aquisição de dados em tempo real;
+
+-   Altos volumes de dados (fastq \> 50 Gb);
+
+-   Long reads (10 kb -- 100 Kb);
+
+-   Ultra (100 Kb -- 300 Kb). Recorde 4 Mb!!!!!!;
+
+-   Acurácia atual de \>99%;
+:::
+:::
+
+## Long Read Data Generation
 
 [![Sequenciamento Oxford Nanopore](img/nanopore.jpg){alt="Sequenciamento Oxford Nanopore" fig-align="center"}](https://www.nature.com/articles/s41587-021-01108-x)
 
-## Epigenética e fenotipagem forense por DNA
+## Long Read Data Generation
 
 ![Comparação de sequenciamento de leituras curtas e longas.](img/short_long.png){fig-align="center"}
+
+## Epigenomics and DNA Modifications
+
+::: columns
+::: column
+![Epigenética](img/ont_epigenetics.png){fig-align="center" width="750"}
+:::
+
+::: {.column .incremental}
+Exemplo:
+
+-   {A,T,C,G, 5mC};
+
+-   5x5x5x5x5x5 ou 5\^6;
+
+-   [15625 combinações!!!!!]{colour="#FFFFFF" bg-colour="#b22222"}
+
+<br>
+
+-   {A,T,C,G, 5mC, 5hmC};
+
+-   [46656 combinações!!!!]{colour="#FFFFFF" bg-colour="#b22222"}
+:::
+:::
 
 ## Epigenética e fenotipagem forense por DNA
 
